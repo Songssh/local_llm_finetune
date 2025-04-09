@@ -4,11 +4,7 @@ import json
 
 """
 [
-    {
-        "instruction": "애갤 인날먹단 단장 기상",
-        "input": "",
-        "output": "애갤 인날먹단 단장 기상"
-    },
+
     {
         "instruction": "이 새끼 뭔데 평점도 줌",
         "input": "",
